@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @ThreeHeadInSpace
-- 👀 I’m interested in Good service, logic of thinking and simplicity
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: He
-- ⚡ Fun fact: I'm interested in interesting facts, but I quickly forget them
+- 👋 Hi, I'm @ThreeHeadInSpace or just Igor
+
+- 👀 Good products, thoughtful design, and keeping things simple
+
+- 🌱 React, JavaScript, TypeScript
+
+- 💞️ Open to collaborating — for fun or for money
+
+- 📫 How to reach me:
+  Email: Happyigor5@gmail.com
+  Telegram: @ajaragudjuu
+
+- ⚡ Fun fact: I collect interesting facts. Then I immediately lose them.
 
 <!---
 ThreeHeadInSpace/ThreeHeadInSpace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
