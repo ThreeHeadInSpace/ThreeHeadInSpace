@@ -4,7 +4,7 @@
 
 - 🌱 React, JavaScript, TypeScript
 
-- 💞️ Open to collaborating — for fun or for money
+- 💞️ Open to collaborating for fun or for money
 
 - 📫 How to reach me:
   Email: Happyigor5@gmail.com
